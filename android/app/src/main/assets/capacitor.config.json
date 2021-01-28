@@ -1,0 +1,13 @@
+{
+  "appId": "platzi.music.com.gt",
+  "appName": "Platzi Music",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
